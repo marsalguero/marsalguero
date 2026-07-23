@@ -11,8 +11,8 @@ Ya sea desarrollando un script para ahorrar horas de trabajo manual o estructura
 
 ### 🚀 Proyectos Destacados
 
-*   
-*   **[Lights Out]** - Desarrollo del clásico juego de ingenio interactivo por consola escrito en C, implementando matrices tridimensionales y lógica de estados. (*Enfocado en fundamentos y algoritmia*).
+*   **[Carga de Datos de Vuelos y Aerolíneas]**: Base de datos programada en Python con interfaz de registro e inicio de sesión. Permite guardar, cambiar y ver fechas, horarios, precios y lugares de vuelos y aerolíneas.
+*   **[Lights Out]** - Desarrollo del clásico juego de ingenio interactivo por consola escrito en C, implementando matrices tridimensionales y lógica de estados.
 *  
 
 ### 💻 Tecnologías y Herramientas
